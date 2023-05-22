@@ -1,0 +1,41 @@
+/* Estilo para a classe 'fruta' */
+.fruta {
+    background-color:  #FF6600; /* Cor de fundo */
+    color: #FFD700; /* Cor do texto */
+    font-family: Arial, sans-serif; /* Fonte do texto */
+  }
+  
+  /* Estilo para o texto principal */
+  h2 {
+    font-size: 24px; /* Tamanho da fonte */
+    text-align: center; /* Centralizar o texto */
+  }
+  
+  /* Estilo para a imagem */
+  img {
+    display: block;
+    margin: 0 auto; /* Centralizar a imagem */
+    border-radius: 50%; /* Deixar a imagem redonda */
+  }
+  
+  /* Estilo para a lista de benefícios */
+  ul {
+    list-style-type: disc; /* Estilo de marcadores com discos */
+    margin-left: 20px; /* Recuo à esquerda da lista */
+  }
+  
+  /* Estilo para os itens da lista */
+  li {
+    font-size: 18px; /* Tamanho da fonte */
+  }
+
+/* Estilo para o parágrafo */
+p {
+    font-size: 20px; /* Tamanho da fonte */
+    text-align: center; /* Centralizar o texto */
+    padding: 20px; /* Espaçamento interno */
+    border: 1px solid #000; /* Borda sólida de 1 pixel */
+    display: inline-block; /* Exibir em linha e permitir definição de largura e altura */
+    margin-left: 300px; /* Centralizar horizontalmente */
+    margin-right: 300px;
+  }
